@@ -1,4 +1,4 @@
-- Hi, I’m @grega-rotar
+- Hi, I’m **@grega-rotar**
 
 - I’m interested in programing **website applications**.
 
@@ -20,6 +20,5 @@
 
 - You can contact me at 
 
-           - k2.gregar@gmail.com
-           
+           - k2.gregar@gmail.com           
            - +386 51 618 733
