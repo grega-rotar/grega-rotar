@@ -1,4 +1,4 @@
-- Hi, I’m **@grega-rotar**
+- Hi, I’m **@grega-rotar**. I'm living in Slovenia. I'm **16 years old**
 
 - I’m interested in programing **website applications**.
 
