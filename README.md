@@ -2,7 +2,11 @@
 
 - I’m interested in programing website applications.
 
-- I'm learning PHP and NodeJS
+- I'm currently learning
+          
+          - Java
+          - NodeJS
+          - Git
 
 - I have middle level skills of
           
@@ -13,7 +17,6 @@
           - SQL
           - JQuery
           - Python
-          - Java
 
 - You can contact me at 
 
