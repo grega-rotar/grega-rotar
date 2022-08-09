@@ -1,6 +1,6 @@
 - Hi, I’m @grega-rotar
 
-- I’m interested in programing website applications.
+- I’m interested in programing **website applications**.
 
 - I'm currently learning
           
