@@ -2,6 +2,7 @@
 - I’m interested in programing website applications.
 - I'm learning PHP and NodeJS
 - You can contact me at 
+
            - k2.gregar@gmail.com
            
            - +386 51 618 733
