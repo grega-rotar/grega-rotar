@@ -1,8 +1,8 @@
 ### Hi, I'm Grega 👋
 
-Developer and electrical engineering student from Ljubljana, Slovenia.
-Started with microcontrollers, now mostly building AI agents and the web around them.
-Off the keyboard: the Julian Alps 🏔️, photography and 3D printing.
+Fully agentic. I don't write much code anymore; I run agents that do, around the clock.
+Token maxing: every account, every hour, nothing left on the table.
+Ljubljana, Slovenia. EE student, started on microcontrollers. Powered by love, programming and mountains ❤️💻🏔️
 
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,php,python,c,cpp,docker,linux,arduino&perline=11" alt="TypeScript, React, Next.js, Node.js, PHP, Python, C, C++, Docker, Linux, Arduino" />
 
