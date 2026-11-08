@@ -10,7 +10,7 @@ Powered by love, programming and mountains ❤️💻🏔️
   <img src="icons/codex.svg" width="72" alt="Codex" title="Codex" />
 </p>
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,php,python,c,cpp,docker,linux,arduino&perline=11" alt="TypeScript, React, Next.js, Node.js, PHP, Python, C, C++, Docker, Linux, Arduino" />
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=grega-rotar&theme=dark&hide_border=true&background=00000000" />
